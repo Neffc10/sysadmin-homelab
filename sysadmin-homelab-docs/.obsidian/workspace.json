@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "74ade54ef8644f0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b80df241d473f839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c1c007f46a56ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homelab/Phases/Phase-0-Foundation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase-0-Foundation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2358f4266247fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "94b3bc3f5a8cea05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9875db227d16302a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77e52e81d6b66f81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "98bd595a7025f703",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "224b9b6904bf82a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ec40dd472057e9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d70dd8729da0db1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Assets"
+            }
+          },
+          {
+            "id": "846f8498ebbfc964",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Assets"
+            }
+          },
+          {
+            "id": "22c90ddd74972ca6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4cd43df1cba92e78",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f8c6c3a8d3825fb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assets.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Assets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8c1c007f46a56ed5",
+  "lastOpenFiles": [
+    "Homelab/Home.md",
+    "Homelab/Phases/Phase-0-Foundation.md",
+    "Homelab/Phases/Phase-1-Core-Infrastructure.md",
+    "Assets/Pasted image 20260310114741.png",
+    "Assets/Pasted image 20260310114515.png",
+    "Homelab/Infrastructure/IP-Address-Scheme.md",
+    "Assets.md",
+    "Assets",
+    "IT Generalist Homelab/Homelab-Roadmap.md",
+    "Homelab/Phases/Phase-5-Documentation-Polish.md",
+    "Homelab/Phases/Phase-4-Ticketing-System.md",
+    "Homelab/Phases/Phase-3-Automation-Scripting.md",
+    "Homelab/Phases/Phase-2-Sysadmin-Scenarios.md",
+    "Homelab/Scripts/Script-Index.md",
+    "Homelab/Troubleshooting/Issues-Log.md",
+    "Homelab/Runbooks/User-Onboarding.md",
+    "Homelab/Runbooks/User-Offboarding.md",
+    "Homelab/Runbooks/Password-Reset.md",
+    "Homelab/Runbooks/Add-Computer-To-Domain.md",
+    "Homelab/Infrastructure/VM-Inventory.md",
+    "Homelab/Infrastructure/Network-Diagram.md",
+    "Homelab/Troubleshooting",
+    "Homelab/Scripts",
+    "Homelab/Runbooks",
+    "Homelab/Phases",
+    "Homelab/Infrastructure",
+    "Homelab",
+    "IT Generalist Homelab/Untitled.md",
+    "create a link.md",
+    "IT Generalist Homelab",
+    "Welcome.md"
+  ]
+}
