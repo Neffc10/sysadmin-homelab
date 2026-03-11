@@ -11,7 +11,7 @@
   "emptyFolderBehavior": "DeleteWithEmptyParents",
   "excludePaths": [],
   "excludePathsFromAttachmentCollecting": [],
-  "generatedAttachmentFileName": "${originalAttachmentFileName}",
+  "generatedAttachmentFileName": "${originalAttachmentFileName:{slugify:true}}",
   "includePaths": [],
   "jpegQuality": 0.8,
   "markdownUrlFormat": "${generatedAttachmentFilePath}",

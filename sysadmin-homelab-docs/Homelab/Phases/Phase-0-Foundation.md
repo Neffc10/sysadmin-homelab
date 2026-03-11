@@ -1,3 +1,4 @@
+# Phase-0-Foundation
 ## Goal:
 Prepare the host environment for VM depolyment.
 ## Deliverables:
@@ -7,7 +8,10 @@ Prepare the host environment for VM depolyment.
 - Windows Server 2022 and Windows 10/11 ISOs downloaded 
 ## Build Log
 Update system, install KVM, QEMU, and Virt-Manager, add user to groups
-![](Assets/Pasted%20image%2020260310155331.png)
+![](Assets/Pasted-image-20260311114157.png)
 
 Launch Virt-Manager
-![](Assets/Pasted%20image%2020260310155311.png)
+![](Assets/Pasted-image-20260311114113.png)
+
+#### Note:
+Troubleshooting screenshot images not rendering in github preview 
