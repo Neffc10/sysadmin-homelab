@@ -1,11 +1,19 @@
-# Phase-0-Foundation
-## Goal:
-Prepare the host environment for VM depolyment.
-## Deliverables:
+# Phase 0 — Foundation
+## Contents
+- [Goal](#goal)
+- [Deliverables](#deliverables)
+- [[Phase-0-Foundation#Build Log|Build Log]]
+- [[Phase-0-Foundation#Notes & Observations|Notes & Observations]]
+- [[Phase-0-Foundation#Troubleshooting|Troubleshooting]]
+## Goal
+Prepare the host environment for VM depolyment
+## Deliverables
 - KVM/QEMU + Virt-Manager installed and verified on Pop!OS
 - Obsidian vault created with folder structure established
 - GitHub repository initialized
 - Windows Server 2022, Windows 11, and Ubuntu Server ISOs downloaded
+
+---
 ## Build Log
 ### KVM, QEMU, and Virt-Manager Installation
 Update system, install KVM, QEMU, and Virt-Manager, add user to groups.
@@ -21,7 +29,6 @@ Configure Obsidian to render images correctly in both Obsidian and GitHub.
 - Link format: Path relative to current file 
 - Wikilinks: Off
 ![](Attatchments%20/Pasted%20image%2020260311120723.png)
-See [[Issues-Log#IMG-001]] for troubleshooting details.
 
 ### GitHub Repository Setup
 Create a public repository to host the project documentation and scripts.
@@ -39,3 +46,19 @@ Download installation media for all three virtual machines.
 | Windows Server 2022 | Evaluation (180-day) |
 | Windows 11          | Disk Image           |
 | Ubuntu Server       | 24.04 LTS            |
+
+---
+## Notes & Observations
+- Windows Server 2022 and Windows 11 are available as free downloads directly 
+  from Microsoft — no license required for lab/evaluation use.
+- KVM/QEMU is preferred over VirtualBox for better performance with Windows VMs 
+  and is more representative of production virtualization environments.
+- Obsidian wikilink format is incompatible with GitHub markdown rendering — 
+  standard relative path format must be used for images to display correctly 
+  in both environments.
+- SSH key authentication is more secure and convenient than password/token 
+  based authentication for GitHub.
+
+---
+## Troubleshooting
+[[Issues-Log#IMG-001]] | Obsidian images not rendering on GitHub
