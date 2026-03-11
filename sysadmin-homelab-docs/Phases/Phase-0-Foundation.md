@@ -1,10 +1,10 @@
 # Phase 0 — Foundation
 ## Contents
-- [Goal](#goal)
-- [Deliverables](#deliverables)
-- [[Phase-0-Foundation#Build Log|Build Log]]
-- [[Phase-0-Foundation#Notes & Observations|Notes & Observations]]
-- [[Phase-0-Foundation#Troubleshooting|Troubleshooting]]
+- [[#Goal]]
+- [[#Deliverables]]
+- [[#Build Log]]
+- [[#Notes & Observations]]
+- [[#Troubleshooting]]
 ## Goal
 Prepare the host environment for VM depolyment
 ## Deliverables

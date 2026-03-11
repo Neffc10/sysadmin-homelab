@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d46b1bfbdecfcae",
+        "id": "471dee4a66526113",
         "type": "tabs",
         "children": [
           {
-            "id": "379e6bf5b9af6343",
+            "id": "ec093622b92036a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,10 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "379e6bf5b9af6343",
+  "active": "9875db227d16302a",
   "lastOpenFiles": [
-    "Troubleshooting/Issues-Log.md",
+    "Untitled.canvas",
     "Phases/Phase-0-Foundation.md",
+    "Notes & Observations.md",
+    "Troubleshooting/Issues-Log.md",
     "Phases/Phase-1-Core-Infrastructure.md",
     "Phases/Phase-5-Documentation-Polish.md",
     "Phases/Phase-4-Ticketing-System.md",
@@ -197,7 +199,6 @@
     "Phases/Attatchments /Pasted image 20260311123816.png",
     "Runbooks/Add-Computer-To-Domain.md",
     "Untitled.base",
-    "Untitled.canvas",
     "2026-03-10.md",
     "Phases/Attatchments /Pasted image 20260311120723.png",
     "Phases/Attatchments /Pasted image 20260311120303.png",
