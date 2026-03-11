@@ -2,8 +2,8 @@
 ## Contents
 - [[#Goal]]
 - [[#Deliverables]]
-- [[#Build-Log]]
-- [[#Notes--Observations]]
+- [Build Log](#Build-Log)
+- [Notes](#Notes--Observations)
 - [[#Troubleshooting]]
 ## Goal
 Prepare the host environment for VM depolyment
