@@ -45,10 +45,10 @@ The lab was built to bridge the gap between certification knowledge and practica
 **Goal:** Prepare the host environment and documentation structure before any VMs are deployed.
 
 **Deliverables:**
-- KVM/QEMU + Virt-Manager installed and verified on Pop!OS
+- KVM/QEMU + Virt-Manager installed and verified on Pop!_OS
 - Obsidian vault created with folder structure established
 - GitHub repository initialized
-- Windows Server 2022 and Windows 10/11 ISOs downloaded
+- Windows Server 2022, Windows 11, and Ubuntu Server ISOs downloaded
 
 ---
 
@@ -59,9 +59,9 @@ The lab was built to bridge the gap between certification knowledge and practica
 - Windows Server 2022 VM deployed and configured
 - Server promoted to Domain Controller
 - Active Directory, DNS, and DHCP operational
-- Windows 10/11 client VM deployed and domain-joined
+- Windows 11 client VM deployed and domain-joined
 - AD organizational structure created (OUs, groups, users)
-
+- Ubuntu Server VM deployed and configured
 ---
 
 ### Phase 2 — Sysadmin Scenarios
@@ -111,7 +111,7 @@ The lab was built to bridge the gap between certification knowledge and practica
 ---
 ## Project Status Tracker
 
-- [ ] [[Phase-0-Foundation|Phase 0 — Foundation]]
+- [x] [[Phase-0-Foundation|Phase 0 — Foundation]]
 - [ ] [[Phase-1-Core-Infrastructure|Phase 1 — Core Infrastructure]]
 - [ ] [[Phase-2-Sysadmin-Scenarios|Phase 2 — Sysadmin Scenarios]]
 - [ ] [[Phase-3-Automation-Scripting|Phase 3 — Automation & Scripting]]

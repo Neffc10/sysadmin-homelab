@@ -5,18 +5,36 @@ Prepare the host environment for VM depolyment.
 - KVM/QEMU + Virt-Manager installed and verified on Pop!OS
 - Obsidian vault created with folder structure established
 - GitHub repository initialized
-- Windows Server 2022 and Windows 10/11 ISOs downloaded 
+- Windows Server 2022, Windows 11, and Ubuntu Server ISOs downloaded
 ## Build Log
-Update system, install KVM, QEMU, and Virt-Manager, add user to groups
+### KVM, QEMU, and Virt-Manager Installation
+Update system, install KVM, QEMU, and Virt-Manager, add user to groups.
 ![](Attatchments%20/Pasted%20image%2020260311115746.png)
-![](Pasted%20image%2020260311115329.png)
+Launch Virt-Manager.
+![](Attatchments%20/Pasted%20image%2020260311120303.png)
 
-![](Assets/Pasted-image-20260311114157.png)
+### Obsidian to GitHub Image Config
+Configure Obsidian to render images correctly in both Obsidian and GitHub. 
+**Settings → Files & Links:** 
+- Default location for new attachments: Subfolder under current folder 
+- Link format: Path relative to current file 
+- Wikilinks: Off
+![](Attatchments%20/Pasted%20image%2020260311120723.png)
+See [[Issues-Log#IMG-001]] for troubleshooting details.
 
-Launch Virt-Manager
-![](Attatchments%20/Pasted%20image%2020260311115753.png)
-![](Pasted%20image%2020260311115401.png)
-![](Assets/Pasted-image-20260311114113.png)
+### GitHub Repository Setup
+Create a public repository to host the project documentation and scripts.
 
-#### Note:
-Troubleshooting screenshot images not rendering in github preview 
+- **sysadmin-homelab** — contains project README and Obsidian documentation vault
+
+Configured SSH key authentication for secure pushing from the local machine.
+![](Attatchments%20/Pasted%20image%2020260311123849.png)
+
+### ISO Downloads
+Download installation media for all three virtual machines.
+
+| OS                  | Version              |
+| ------------------- | -------------------- |
+| Windows Server 2022 | Evaluation (180-day) |
+| Windows 11          | Disk Image           |
+| Ubuntu Server       | 24.04 LTS            |
