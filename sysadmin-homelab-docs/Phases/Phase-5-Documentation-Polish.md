@@ -24,7 +24,7 @@
 
 ---
 
-## Notes & Observations
+## Notes
 [Anything learned, gotchas, or worth remembering from this phase.]
 
 ---

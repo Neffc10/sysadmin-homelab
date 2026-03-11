@@ -3,7 +3,7 @@
 - [[#Goal]]
 - [[#Deliverables]]
 - [Build Log](#Build-Log)
-- [Notes](#Notes--Observations)
+- [Notes](#Notes)
 - [[#Troubleshooting]]
 ## Goal
 Prepare the host environment for VM depolyment
@@ -48,7 +48,7 @@ Download installation media for all three virtual machines.
 | Ubuntu Server       | 24.04 LTS            |
 
 ---
-## Notes & Observations
+## Notes
 - Windows Server 2022 and Windows 11 are available as free downloads directly 
   from Microsoft — no license required for lab/evaluation use.
 - KVM/QEMU is preferred over VirtualBox for better performance with Windows VMs 
