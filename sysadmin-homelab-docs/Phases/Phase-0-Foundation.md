@@ -10,6 +10,7 @@ Prepare the host environment for VM depolyment.
 ### KVM, QEMU, and Virt-Manager Installation
 Update system, install KVM, QEMU, and Virt-Manager, add user to groups.
 ![](Attatchments%20/Pasted%20image%2020260311115746.png)
+
 Launch Virt-Manager.
 ![](Attatchments%20/Pasted%20image%2020260311120303.png)
 
