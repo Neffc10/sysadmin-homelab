@@ -8,9 +8,13 @@ Prepare the host environment for VM depolyment.
 - Windows Server 2022 and Windows 10/11 ISOs downloaded 
 ## Build Log
 Update system, install KVM, QEMU, and Virt-Manager, add user to groups
+![](Pasted%20image%2020260311115329.png)
+
 ![](Assets/Pasted-image-20260311114157.png)
 
 Launch Virt-Manager
+
+![](Pasted%20image%2020260311115401.png)
 ![](Assets/Pasted-image-20260311114113.png)
 
 #### Note:
