@@ -1,10 +1,10 @@
 # Phase 0 — Foundation
 ## Contents
-- [[#Goal]]
-- [[#Deliverables]]
+- [Goal](#Goal)
+- [Deliverables](#Deliverables)
 - [Build Log](#Build-Log)
 - [Notes](#Notes)
-- [[#Troubleshooting]]
+- [Troubleshooting](#Troubleshooting)
 ## Goal
 Prepare the host environment for VM depolyment
 ## Deliverables
@@ -23,8 +23,8 @@ Launch Virt-Manager.
 ![](Attatchments%20/Pasted%20image%2020260311120303.png)
 
 ### Obsidian to GitHub Image Config
-Configure Obsidian to render images correctly in both Obsidian and GitHub. 
-**Settings → Files & Links:** 
+Configure Obsidian to render images correctly in both Obsidian and GitHub.
+- Settings → Files & Links 
 - Default location for new attachments: Subfolder under current folder 
 - Link format: Path relative to current file 
 - Wikilinks: Off
