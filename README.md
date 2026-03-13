@@ -23,7 +23,7 @@ This lab simulates a real-world managed IT environment including a Windows domai
 
 ## Documentation
 
-Full project documentation including build logs, runbooks, and troubleshooting notes is maintained in the [sysadmin-homelab-docs](https://github.com/Neffc10/sysadmin-homelab-docs) repository.
+Full project documentation including build logs, runbooks, and troubleshooting notes is maintained in the [sysadmin-homelab-docs](./sysadmin-homelab-docs) folder of this repository.
 
 ## Author
 

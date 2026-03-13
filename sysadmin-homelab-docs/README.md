@@ -112,7 +112,7 @@ The lab was built to bridge the gap between certification knowledge and practica
 ## Project Status Tracker
 
 - [x] [[Phase-0-Foundation|Phase 0 — Foundation]]
-- [ ] [[Phase-1-Core-Infrastructure|Phase 1 — Core Infrastructure]]
+- [x] [[Phase-1-Core-Infrastructure|Phase 1 — Core Infrastructure]]
 - [ ] [[Phase-2-Sysadmin-Scenarios|Phase 2 — Sysadmin Scenarios]]
 - [ ] [[Phase-3-Automation-Scripting|Phase 3 — Automation & Scripting]]
 - [ ] [[Phase-4-Ticketing-System|Phase 4 — Ticketing System]]
