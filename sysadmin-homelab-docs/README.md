@@ -53,7 +53,7 @@ The lab was built to bridge the gap between certification knowledge and practica
 ---
 
 ### Phase 1 — Core Infrastructure
-**Goal:** Deploy a functioning Windows domain environment from scratch.
+**Goal:** Deploy and configure the core virtual infrastructure including a Windows domain environment and Linux server.
 
 **Deliverables:**
 - Windows Server 2022 VM deployed and configured
@@ -72,7 +72,7 @@ The lab was built to bridge the gap between certification knowledge and practica
 - File shares created with NTFS permissions mapped to AD groups
 - User lifecycle workflows documented (onboarding, password reset, offboarding)
 - Common helpdesk scenarios simulated and documented (locked accounts, mapped drives, profile issues)
-- Ubuntu Server VM deployed and basic Linux administration performed
+- Ubuntu Server VM basic Linux administration performed
 
 ---
 

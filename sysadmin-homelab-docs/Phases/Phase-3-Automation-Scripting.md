@@ -1,5 +1,10 @@
 # Phase 3 — [Automation Scripting]
-
+## Contents
+- [Goal](#goal)
+- [Deliverables](#deliverables)
+- [Build Log](#build-log)
+- [Notes & Observations](#notes--observations)
+- [Troubleshooting](#troubleshooting)
 ## Goal
 [One sentence describing what this phase accomplishes.]
 

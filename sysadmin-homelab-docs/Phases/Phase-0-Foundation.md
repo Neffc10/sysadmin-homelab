@@ -61,4 +61,4 @@ Download installation media for all three virtual machines.
 
 ---
 ## Troubleshooting
-[[Issues-Log#IMG-001]] | Obsidian images not rendering on GitHub
+See issue log: [IMG-001](../Troubleshooting/Issues-Log.md) | Obsidian images not rendering on GitHub
