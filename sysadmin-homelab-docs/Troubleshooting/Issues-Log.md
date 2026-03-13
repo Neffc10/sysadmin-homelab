@@ -4,7 +4,7 @@
 ### IMG-001 | Obsidian images not rendering on GitHub
 
 **Date:** 2026-03-10
-**Phase:** Phase 0 — Foundation
+**Phase:** Phase 0 -- Foundation
 **Status:** Resolved
 
 **Symptom:**
@@ -22,7 +22,7 @@ Changed the following in Settings → Files & Links:
 ### DHCP-001 | DHCP New Scope Greyed Out/Unlickable in Server Console
 
 **Date:** 2026-03-12
-**Phase:** Phase 1 — Core Infrastructure
+**Phase:** Phase 1 -- Core Infrastructure
 **Status:** Resolved
 
 **Symptom:** New Scope option was greyed out and unclickable in the DHCP console after installing the DHCP Server role and completing DHCP configuration.
@@ -35,14 +35,22 @@ restart and multiple relaunches.
 This unstuck the console and New Scope became clickable afterward.
 Scope options and activation completed through GUI normally.
 
-## [ID] | [Issue Title]
+### DNS-001 | Ubuntu Server Not Resolving homelab.local via System Resolver
 
-**Date:**
-**Phase:**
-**Status:**
+**Date:** 2026-03-13
+**Phase:** Phase 1 
+**Status:** Resolved
 
-**Symptom:**
+**Symptom:** `nslookup homelab.local` failed with "temporary failure in name resolution" despite resolvectl showing correct DNS server (192.168.122.200).
 
-**Cause:**
+**Cause:** systemd-resolved was using its local stub resolver (127.0.0.53) and not forwarding queries to DC01. Netplan DNS configuration alone was insufficient to configure systemd-resolved's forwarding behavior.
 
-**Resolution:**
+**Resolution:** 
+Edited /etc/systemd/resolved.conf: 
+DNS=192.168.122.200 
+Domains=homelab.local 
+Then ran: `sudo systemctl restart systemd-resolved`
+
+**References**: 
+- /etc/netplan/50-cloud-init.yaml 
+- /etc/systemd/resolved.conf

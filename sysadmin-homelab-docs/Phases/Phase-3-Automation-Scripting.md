@@ -1,4 +1,4 @@
-# Phase 3 — [Automation Scripting]
+# Phase 3 -- [Automation Scripting]
 ## Contents
 - [Goal](#goal)
 - [Deliverables](#deliverables)

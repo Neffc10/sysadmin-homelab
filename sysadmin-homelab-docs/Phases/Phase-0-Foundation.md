@@ -1,4 +1,4 @@
-# Phase 0 — Foundation
+# Phase 0 -- Foundation
 ## Contents
 - [Goal](#Goal)
 - [Deliverables](#Deliverables)
@@ -61,4 +61,5 @@ Download installation media for all three virtual machines.
 
 ---
 ## Troubleshooting
-See issue log: [IMG-001](../Troubleshooting/Issues-Log.md) | Obsidian images not rendering on GitHub
+#### Obsidian images not rendering on GitHub
+See issue log: [IMG-001](../Troubleshooting/Issues-Log.md) 

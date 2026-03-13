@@ -1,4 +1,4 @@
-# Phase X — [Ticketing System]
+# Phase 4 -- [Ticketing System]
 ## Contents
 - [Goal](#goal)
 - [Deliverables](#deliverables)

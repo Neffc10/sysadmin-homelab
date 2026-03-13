@@ -1,4 +1,4 @@
-# Phase X — [Documentation Polish]
+# Phase 5 -- [Documentation Polish]
 ## Contents
 - [Goal](#goal)
 - [Deliverables](#deliverables)

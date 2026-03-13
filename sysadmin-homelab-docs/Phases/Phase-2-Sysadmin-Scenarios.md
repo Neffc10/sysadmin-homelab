@@ -1,4 +1,4 @@
-# Phase 2 — [Sysadmin Scenarios]
+# Phase 2 -- [Sysadmin Scenarios]
 ## Contents
 - [Goal](#goal)
 - [Deliverables](#deliverables)
