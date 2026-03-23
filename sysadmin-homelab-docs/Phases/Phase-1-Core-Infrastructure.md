@@ -5,6 +5,7 @@
 - [Build Log](#Build-Log)
 - [Notes](#Notes)
 - [Troubleshooting](#Troubleshooting)
+
 ## Goal
 Deploy and configure the core virtual infrastructure including a Windows domain environment and Linux server.
 
