@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "0f58f6973bc07cc6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Phases/Attatchments /Pasted image 20260401105149.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260401105149"
+            }
+          },
+          {
             "id": "ec093622b92036a2",
             "type": "leaf",
             "state": {
@@ -199,22 +211,22 @@
   },
   "active": "7435f3b480306321",
   "lastOpenFiles": [
-    "Phases/Phase-1-Core-Infrastructure.md",
+    "Troubleshooting/Issues-Log.md",
     "Phases/Phase-2-Sysadmin-Scenarios.md",
+    "Phases/Phase-1-Core-Infrastructure.md",
+    "Phases/Attatchments /Pasted image 20260401135334.png",
+    "Phases/Attatchments /Pasted image 20260401134509.png",
+    "Phases/Attatchments /Pasted image 20260401134424.png",
+    "Phases/Attatchments /Pasted image 20260401134155.png",
+    "Phases/Attatchments /Pasted image 20260401134110.png",
+    "Phases/Attatchments /Pasted image 20260401133458.png",
+    "Phases/Attatchments /Pasted image 20260401133225.png",
+    "Phases/Attatchments /Pasted image 20260401132814.png",
+    "Phases/Attatchments /Pasted image 20260401132520.png",
+    "Phases/Attatchments /Pasted image 20260401132234.png",
     "Phases/Phase-3-Automation-Scripting.md",
     "README.md",
-    "Phases/Attatchments /Pasted image 20260318150742.png",
-    "Phases/Attatchments /Pasted image 20260318150719.png",
-    "Phases/Attatchments /Pasted image 20260318145932.png",
-    "Phases/Attatchments /Pasted image 20260318144707.png",
-    "Phases/Attatchments /Pasted image 20260318142359.png",
-    "Phases/Attatchments /Pasted image 20260318135359.png",
-    "Phases/Attatchments /Pasted image 20260318134411.png",
-    "Phases/Attatchments /Pasted image 20260318131756.png",
-    "Phases/Attatchments /Pasted image 20260318131324.png",
-    "Phases/Attatchments /Pasted image 20260318130724.png",
     "Phases/Phase-0-Foundation.md",
-    "Troubleshooting/Issues-Log.md",
     "Phases/Phase-5-Documentation-Polish.md",
     "Phases/Phase-4-Ticketing-System.md",
     "Untitled.canvas",

@@ -54,3 +54,19 @@ Then ran: `sudo systemctl restart systemd-resolved`
 **References**: 
 - /etc/netplan/50-cloud-init.yaml 
 - /etc/systemd/resolved.conf
+
+### GPO-001 | Desktop Lockdown GPO linked to domain root
+
+**Date:** 2026-04-01 
+**Phase:** Phase 2 
+**Status:** Resolved
+
+**Symptom:** Windows Settings app would flash and close immediately on DC01. Remote Desktop could not be enabled via Server Manager due to a restrictions popup.
+
+**Cause:** Desktop Lockdown GPO was linked to the domain root (homelab.local) instead of the Computers OU, causing it to apply to DC01 and the Administrator account.
+
+**Resolution:** Removed the GPO link from homelab.local via Group Policy Management. Re-linked the Desktop Lockdown GPO to the Computers OU. Ran `gpupdate /force` on DC01 to apply the corrected policy.
+
+**References:**
+* Group Policy Management Console
+* Computers OU: OU=Computers,OU=Homelab,DC=homelab,DC=local
